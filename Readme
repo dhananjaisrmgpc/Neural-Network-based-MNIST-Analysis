@@ -1,0 +1,11 @@
+To run the code  
+
+1) Go to https://drive.google.com/open?id=1GaeTU9bDmkU3YPc_uuEBffOpU5X4qHSc
+   and click on download anyway for downloading mnist_data_set.csv	 
+
+2) Make sure you have mnist_data_set.csv, Dhananjai_Bajpai_MNIST_Image_Analysis_and_Model_Comparison_code.ipynb in same folder.
+
+3) Run Dhananjai_Bajpai_MNIST_Image_Analysis_and_Model_Comparison_code.ipynb from jupyter (make sure you have all dependencies, libraries installed).
+
+
+In case you encounter some error then please feel free to email me at dhananjaisrmgpc@gmail.com
